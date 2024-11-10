@@ -113,7 +113,7 @@ header h2, header h3, header h4 {
 
 input[type="text"], input[type="tel"], input[type="date"], select, textarea {
     width: 100%;
-    padding: 10px;
+    padding: 7px;
     font-size: 1rem;
     margin-top: 5px;
     border-radius: 5px;
@@ -166,4 +166,9 @@ button:hover {
     display: flex;
     justify-content: flex-end;
     margin-top: 20px;
+}
+
+/* Left Alignment */
+.left-align {
+    text-align: left;
 }
